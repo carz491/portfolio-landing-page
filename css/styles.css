@@ -19,5 +19,11 @@ img {
 .sidebar {
   width: 20%;
   float: right;
-  background-color: gray;
+  background-color: pink;
 }
+
+.column {
+  width: 40%;
+  float: left;
+  padding: 4px;
+}s
