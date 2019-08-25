@@ -1,12 +1,23 @@
 h1 {
-  color: blue;
+  color: green;
 }
 
-p{
+p {
   font-family: Garamond;
+  font-size: 20px;
 }
 
 ul {
   font-size: 20px;
   line-height: 30px;
+}
+
+img {
+  float: right;
+}
+
+.sidebar {
+  width: 20%;
+  float: right;
+  background-color: gray;
 }
