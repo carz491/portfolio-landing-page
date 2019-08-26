@@ -1,29 +1,23 @@
 h1 {
+  color: black;
+  align-content:center;
+}
+
+h2 {
   color: green;
 }
 
-p {
-  font-family: Garamond;
-  font-size: 20px;
-}
+body {
+      background-color: #999AAF;
+  }
 
-ul {
-  font-size: 20px;
-  line-height: 30px;
+p {
+  font-family: courier;
+  font-size: 15px;
+  color: white;
 }
 
 img {
-  float: right;
+  max-width: 100%;
+  height: auto;
 }
-
-.sidebar {
-  width: 20%;
-  float: right;
-  background-color: pink;
-}
-
-.column {
-  width: 40%;
-  float: left;
-  padding: 4px;
-}s
