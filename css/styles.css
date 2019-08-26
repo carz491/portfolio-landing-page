@@ -1,14 +1,16 @@
 h1 {
-  color: black;
+  color: #9999CC;
   align-content:center;
 }
 
 h2 {
-  color: green;
+  color: #9ACDA9;
+  float: left;
+  padding: 20px;
 }
 
 body {
-      background-color: #999AAF;
+      background-color: #BF9CAC;
   }
 
 p {
@@ -20,4 +22,11 @@ p {
 img {
   max-width: 100%;
   height: auto;
+}
+
+li {
+  font-family: serif;
+  float: center;
+  padding: 15px;
+  font-size: 20px;
 }
