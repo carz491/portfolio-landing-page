@@ -1,5 +1,5 @@
 h1 {
-  color: #9999CC;
+  color: white;
   align-content:center;
 }
 
@@ -9,13 +9,17 @@ h2 {
   padding: 20px;
 }
 
+h4 {
+  text-align: : center;
+}
+
 body {
-      background-color: #BF9CAC;
+  background-color: #BF9CAC;
   }
 
 p {
   font-family: courier;
-  font-size: 15px;
+  font-size: 17px;
   color: white;
 }
 
@@ -27,6 +31,17 @@ img {
 li {
   font-family: serif;
   float: center;
-  padding: 15px;
-  font-size: 20px;
+  font-size: 15px;
+}
+
+.important {
+  text-align: center;
+  border-color: white;
+  border-width: 5px;
+  padding: 7px;
+}
+
+.jumbotron {
+  background-color: #006666;
+  background-size: cover;
 }
